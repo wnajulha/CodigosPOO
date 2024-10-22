@@ -1,5 +1,7 @@
 heranca2\Visitante.class
 exLivro\Main.class
+ProjetoYoutube\Visualizacao.class
+ProjetoYoutube\Garfanhoto.class
 exLivro\Pessoa.class
 heranca2\Pessoa.class
 UFC\Luta.class
@@ -21,12 +23,16 @@ polimorfismo\Canguro.class
 polimorfismo\Reptil.class
 exBanco\Conta.class
 polimorfismo\Peixe.class
+ProjetoYoutube\Video.class
 heranca2\Tecnico.class
 heranca\Professor.class
+ProjetoYoutube\AcoesVideo.class
 polimorfismo\Ave.class
 exCasaco\Casaco.class
+ProjetoYoutube\Main.class
 UFC\Main.class
 exCasaco\Main.class
+ProjetoYoutube\Pessoa.class
 exBanco\Main.class
 exLivro\Publicacao.class
 metodosEspecificos\Caneta.class
